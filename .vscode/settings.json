@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "foodly/.dart_tool": true,
+    "foodly/.flutter-plugins": true,
+    "foodly/.flutter-plugins-dependencies": true,
+    "foodly/.gitignore": true,
+    "foodly/.idea": true,
+    "foodly/.metadata": true,
+    "foodly/analysis_options.yaml": true,
+    "foodly/android": true,
+    "foodly/build": true,
+    "foodly/foodly.iml": true,
+    "foodly/ios": true,
+    "foodly/linux": true,
+    "foodly/macos": true,
+    "foodly/pubspec.lock": true,
+    "foodly/web": true,
+    "foodly/windows": true
+  }
+}
